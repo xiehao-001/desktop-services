@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Desktop Services",
+    "description": "Exposes directory picking, window attention requests and workspace access grants to DSH."
+  }
+}
